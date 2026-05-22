@@ -14,7 +14,9 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [Datasets & Corpora](#datasets--corpora)
 - [Tracking & Analysis](#tracking--analysis)
 - [Competitions & Benchmarks](#competitions--benchmarks)
+- [Client & UI Assets](#client--ui-assets)
 - [Rules, Math & References](#rules-math--references)
+- [Learning & Education](#learning--education)
 - [Communities & Research Groups](#communities--research-groups)
 - [Notes](#notes)
 
@@ -26,10 +28,13 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [PokerStove](https://github.com/andrewprock/pokerstove) - C++ poker evaluation and enumeration software for equity calculations and range analysis.
 - [pokersolver](https://github.com/goldfire/pokersolver) - JavaScript poker hand solver for comparing hands and identifying winning combinations.
 - [chehsunliu/poker](https://github.com/chehsunliu/poker) - Go library for poker hand evaluation.
+- [treys](https://github.com/ihendley/treys) - Pure Python poker hand evaluation library inspired by Deuces.
+- [rs-poker](https://github.com/elliottneilclark/rs-poker) - Rust poker library for hand ranking, card enumeration, and agent experiments.
 
 ## Game Engines & Platforms
 
 - [PokerTH](https://github.com/pokerth/pokerth) - Open-source Texas Hold'em game written in C++ and Qt.
+- [OddSlingers](https://github.com/Monadical-SAS/oddslingers.poker) - Django and React codebase for an open-source online poker platform.
 - [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) - Python poker engine for developing and evaluating AI agents.
 - [MIT Pokerbots Engine](https://github.com/mitpokerbots/engine) - Template engine for the MIT Pokerbots autonomous pokerbot competition.
 - [poker-ts](https://github.com/claudijo/poker-ts) - TypeScript Texas Hold'em table model for running poker games.
@@ -37,20 +42,30 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 ## Solvers
 
+- [TexasSolver](https://github.com/bupticybee/TexasSolver) - Open-source Texas Hold'em GTO solver with a graphical interface and short-deck support.
 - [poker_solver](https://github.com/noambrown/poker_solver) - No-limit Texas Hold'em river solver using counterfactual-regret variants.
 - [slumbot2019](https://github.com/ericgjackson/slumbot2019) - Implementations of CFR algorithms for Hold'em-like poker games.
+- [PioSOLVER](https://piosolver.com/) - (Commercial) Desktop Hold'em solver for building trees, running solves, and analyzing postflop strategies.
+- [GTO+](https://www.gtoplus.com/) - (Commercial) Hold'em game-theory analysis software for building decision trees and solving spots.
+- [GTO Wizard](https://www.gtowizard.com/) - (Commercial) Cloud poker study platform with pre-solved solutions, trainers, and custom solving tools.
 
 ## AI, Game Theory & Research
 
 - [RLCard](https://github.com/datamllab/rlcard) - Reinforcement-learning toolkit with poker environments including Limit Texas Hold'em, No-Limit Texas Hold'em, and Leduc Hold'em.
 - [OpenSpiel](https://github.com/google-deepmind/open_spiel) - Research framework for games and algorithms with imperfect-information poker environments.
+- [Cepheus](https://www.science.org/doi/10.1126/science.1259433) - Science paper on essentially weakly solving heads-up limit Texas hold'em.
 - [DeepStack](https://arxiv.org/abs/1701.01724) - Paper on depth-limited solving and neural counterfactual value estimation for heads-up no-limit Texas hold'em.
 - [Libratus](https://www.ijcai.org/proceedings/2017/772) - Paper summary of the Carnegie Mellon no-limit poker AI system.
 - [Pluribus](https://www.science.org/doi/10.1126/science.aay2400) - Science paper on superhuman AI for six-player no-limit Texas hold'em.
 - [Counterfactual Regret Minimization](https://poker.cs.ualberta.ca/publications/NIPS07-cfr.pdf) - Foundational paper introducing regret minimization for large imperfect-information games.
+- [Neural Fictitious Self-Play](https://arxiv.org/abs/1603.01121) - Deep reinforcement-learning approach for approximating Nash equilibria in imperfect-information games.
+- [Deep Counterfactual Regret Minimization](https://arxiv.org/abs/1811.00164) - Paper introducing Deep CFR for large imperfect-information poker games.
+- [ReBeL](https://arxiv.org/abs/2007.13544) - Paper on reinforcement learning and search for imperfect-information games, including heads-up no-limit Texas hold'em.
 
 ## Hand Histories, Formats & Standards
 
+- [Poker Hand History File Format Specification](https://phh.readthedocs.io/) - Specification for the PHH hand-history format across poker variants.
+- [ACPC Protocol Specification](https://pokerkit.readthedocs.io/en/stable/_static/protocol.pdf) - Protocol reference for dealer-to-player messages used by Annual Computer Poker Competition tooling.
 - [PokerHandHistoryParser](https://github.com/HHSmithy/PokerHandHistoryParser) - Parser for extracting limits, game types, players, stack sizes, and actions from poker hand histories.
 - [pluribus-hand-parser](https://github.com/VitamintK/pluribus-hand-parser) - Parser for the publicly released Pluribus hand-history data.
 - [PokerNowGrabber](https://github.com/pj4533/PokerNowGrabber) - Tool for saving hand histories from Poker Now games.
@@ -59,6 +74,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 - [PHH Dataset](https://github.com/uoftcprg/phh-dataset) - Multi-variant dataset of poker hand histories in the Poker Hand History format.
 - [IRC Poker Database](https://poker.cs.ualberta.ca/irc_poker_database.html) - Historical corpus of more than 10 million IRC poker hands collected from 1995 to 2001.
+- [Official ACPC Match Logs](http://www.computerpokercompetition.org/downloads/competitions/) - Download index for Annual Computer Poker Competition match logs and benchmark data.
 
 ## Tracking & Analysis
 
@@ -70,12 +86,22 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [MIT Pokerbots](https://pokerbots.org/) - Annual MIT programming competition where teams build autonomous pokerbots for a custom poker variant.
 - [Annual Computer Poker Competition](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2474/0) - Competition report covering the benchmark event that shaped academic computer-poker research.
 
+## Client & UI Assets
+
+- [SVG-cards](https://github.com/htdebeer/SVG-cards) - SVG and PNG playing-card deck assets, installable through npm.
+- [playing-cards-assets](https://github.com/hayeah/playing-cards-assets) - MIT-licensed SVG and PNG playing-card image assets derived from open vector cards.
+
 ## Rules, Math & References
 
-- [MIT Poker Theory and Analytics](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/) - OpenCourseWare class on poker theory, analytics, decision-making, and connections to trading.
 - [Tournament Directors Association Rules](https://www.pokertda.com/poker-tda-rules/) - Widely used tournament poker rules and procedures.
 - [Robert's Rules of Poker](https://www.pagat.com/docs/RobsPkrRulesHome.pdf) - Reference rules for common poker procedures and disputes.
 - [Poker Probability](https://en.wikipedia.org/wiki/Poker_probability) - Overview of poker hand frequencies and probability tables.
+
+## Learning & Education
+
+- [MIT Poker Theory and Analytics](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/) - OpenCourseWare class on poker theory, analytics, decision-making, and connections to trading.
+- [Artificial Intelligence Poker Tutorial](https://chisness.github.io/2019-04-25/artificial-intelligence-poker-tutorial) - Code-oriented walkthrough of poker AI concepts, CFR, and agent implementation.
+- [Counterfactual Regret Minimization for Poker AI](https://int8.io/counterfactual-regret-minimization-for-poker-ai/) - Long-form technical explanation of CFR and poker game-tree solving.
 
 ## Communities & Research Groups
 
