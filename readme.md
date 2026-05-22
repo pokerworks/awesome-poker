@@ -11,6 +11,10 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [AI and Game Theory](#ai-and-game-theory)
 - [Solvers and Strategy](#solvers-and-strategy)
 - [Hand Histories and Data](#hand-histories-and-data)
+- [Competitions and Benchmarks](#competitions-and-benchmarks)
+- [Learning](#learning)
+- [Communities and Research Groups](#communities-and-research-groups)
+- [Player Tools](#player-tools)
 - [Rules and References](#rules-and-references)
 
 ## Evaluation Libraries
@@ -18,12 +22,14 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) - Efficient 7-card and Omaha poker hand evaluation library.
 - [PokerKit](https://github.com/uoftcprg/pokerkit) - Python toolkit for poker simulation, hand evaluation, state tracking, and statistical analysis.
 - [OMPEval](https://github.com/zekyll/OMPEval) - C++ poker hand evaluator and equity calculator for Hold'em and Omaha simulations.
+- [PokerStove](https://github.com/andrewprock/pokerstove) - C++ poker evaluation and enumeration software for equity calculations and range analysis.
 - [pokersolver](https://github.com/goldfire/pokersolver) - JavaScript poker hand solver for comparing hands and identifying winning combinations.
 - [chehsunliu/poker](https://github.com/chehsunliu/poker) - Go library for poker hand evaluation.
 
 ## Engines and Simulation
 
 - [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) - Python poker engine for developing and evaluating AI agents.
+- [MIT Pokerbots Engine](https://github.com/mitpokerbots/engine) - Template engine for the MIT Pokerbots autonomous pokerbot competition.
 - [clubs](https://github.com/fschlatt/clubs) - Python engine for simulating arbitrary community-card poker games.
 - [OpenSpiel](https://github.com/google-deepmind/open_spiel) - Research framework for games and algorithms with imperfect-information poker environments.
 
@@ -47,6 +53,25 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [pluribus-hand-parser](https://github.com/VitamintK/pluribus-hand-parser) - Parser for the publicly released Pluribus hand-history data.
 - [PokerNowGrabber](https://github.com/pj4533/PokerNowGrabber) - Tool for saving hand histories from Poker Now games.
 
+## Competitions and Benchmarks
+
+- [MIT Pokerbots](https://pokerbots.org/) - Annual MIT programming competition where teams build autonomous pokerbots for a custom poker variant.
+- [Annual Computer Poker Competition](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2474/0) - Competition report covering the benchmark event that shaped academic computer-poker research.
+
+## Learning
+
+- [MIT Poker Theory and Analytics](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/) - OpenCourseWare class on poker theory, analytics, decision-making, and connections to trading.
+
+## Communities and Research Groups
+
+- [Computer Poker Research Group](https://poker.cs.ualberta.ca/) - University of Alberta research group behind major computer-poker milestones including Cepheus and DeepStack.
+- [Two Plus Two Forums](https://forumserver.twoplustwo.com/) - Long-running poker discussion forum with strategy, software, theory, and community sections.
+
+## Player Tools
+
+- [PokerTracker 4](https://www.pokertracker.com/products/PT4/index.php) - Commercial tracking, reporting, hand replay, and HUD software for Hold'em and Omaha.
+- [Holdem Manager 3](https://www.holdemmanager.com/hm3/index.php) - Commercial hand database, reporting, filtering, replay, and HUD software for online poker analysis.
+
 ## Rules and References
 
 - [Tournament Directors Association Rules](https://www.pokertda.com/poker-tda-rules/) - Widely used tournament poker rules and procedures.
@@ -60,4 +85,4 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 ## Footnotes
 
-This list is intentionally selective. See [contributing.md](contributing.md) for inclusion criteria and maintenance expectations.
+This list is intentionally selective. See [contributing.md](contributing.md) for inclusion criteria and maintenance expectations. Historically important resources that do not meet the main-list maintenance bar belong in [historical.md](historical.md).
