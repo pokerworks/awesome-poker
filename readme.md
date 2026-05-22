@@ -7,10 +7,12 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 ## Contents
 
 - [Evaluation Libraries](#evaluation-libraries)
+- [Applications](#applications)
 - [Engines and Simulation](#engines-and-simulation)
 - [AI and Game Theory](#ai-and-game-theory)
 - [Solvers and Strategy](#solvers-and-strategy)
 - [Hand Histories and Data](#hand-histories-and-data)
+- [Datasets](#datasets)
 - [Competitions and Benchmarks](#competitions-and-benchmarks)
 - [Learning](#learning)
 - [Communities and Research Groups](#communities-and-research-groups)
@@ -26,10 +28,15 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [pokersolver](https://github.com/goldfire/pokersolver) - JavaScript poker hand solver for comparing hands and identifying winning combinations.
 - [chehsunliu/poker](https://github.com/chehsunliu/poker) - Go library for poker hand evaluation.
 
+## Applications
+
+- [PokerTH](https://github.com/pokerth/pokerth) - Open-source Texas Hold'em game written in C++ and Qt.
+
 ## Engines and Simulation
 
 - [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) - Python poker engine for developing and evaluating AI agents.
 - [MIT Pokerbots Engine](https://github.com/mitpokerbots/engine) - Template engine for the MIT Pokerbots autonomous pokerbot competition.
+- [poker-ts](https://github.com/claudijo/poker-ts) - TypeScript Texas Hold'em table model for running poker games.
 - [clubs](https://github.com/fschlatt/clubs) - Python engine for simulating arbitrary community-card poker games.
 - [OpenSpiel](https://github.com/google-deepmind/open_spiel) - Research framework for games and algorithms with imperfect-information poker environments.
 
@@ -49,9 +56,13 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 ## Hand Histories and Data
 
 - [PokerHandHistoryParser](https://github.com/HHSmithy/PokerHandHistoryParser) - Parser for extracting limits, game types, players, stack sizes, and actions from poker hand histories.
-- [PHH Dataset](https://github.com/uoftcprg/phh-dataset) - Dataset of poker hand histories in the Poker Hand History format.
 - [pluribus-hand-parser](https://github.com/VitamintK/pluribus-hand-parser) - Parser for the publicly released Pluribus hand-history data.
 - [PokerNowGrabber](https://github.com/pj4533/PokerNowGrabber) - Tool for saving hand histories from Poker Now games.
+
+## Datasets
+
+- [PHH Dataset](https://github.com/uoftcprg/phh-dataset) - Multi-variant dataset of poker hand histories in the Poker Hand History format.
+- [IRC Poker Database](https://poker.cs.ualberta.ca/irc_poker_database.html) - Historical corpus of more than 10 million IRC poker hands collected from 1995 to 2001.
 
 ## Competitions and Benchmarks
 
