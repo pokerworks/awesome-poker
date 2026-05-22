@@ -1,0 +1,30 @@
+name: Add resource
+description: Suggest a resource for Awesome Poker.
+title: "Add: "
+labels: ["resource"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Resource URL
+      description: Link to the project, paper, dataset, reference, or tool.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs
+      description: Explain why this resource is useful and which section it fits.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I checked that the link works.
+          required: true
+        - label: I checked that the resource is not archived, deprecated, or abandoned unless it is proposed for a historical section.
+          required: true
+        - label: I am not adding an affiliate, referral, or promotional link.
+          required: true
