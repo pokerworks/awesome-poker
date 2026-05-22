@@ -24,7 +24,6 @@ Maintained by [PokerWorks](https://pokerworks.com) as a community resource. Incl
 ## Engines and Simulation
 
 - [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) - Python poker engine for developing and evaluating AI agents.
-- [robopoker](https://github.com/robopoker/robopoker) - Poker engine and SDK for building and testing automated players.
 - [clubs](https://github.com/fschlatt/clubs) - Python engine for simulating arbitrary community-card poker games.
 - [OpenSpiel](https://github.com/google-deepmind/open_spiel) - Research framework for games and algorithms with imperfect-information poker environments.
 
@@ -51,10 +50,14 @@ Maintained by [PokerWorks](https://pokerworks.com) as a community resource. Incl
 ## Rules and References
 
 - [Tournament Directors Association Rules](https://www.pokertda.com/poker-tda-rules/) - Widely used tournament poker rules and procedures.
-- [Robert's Rules of Poker](https://www.pagat.com/poker/roberts_rules.html) - Reference rules for common poker procedures and disputes.
+- [Robert's Rules of Poker](https://www.pagat.com/docs/RobsPkrRulesHome.pdf) - Reference rules for common poker procedures and disputes.
 - [Poker Probability](https://en.wikipedia.org/wiki/Poker_probability) - Overview of poker hand frequencies and probability tables.
 
 ## Related Lists
 
 - [apehex/awesome-poker](https://github.com/apehex/awesome-poker) - Earlier broad poker resource list, useful prior art for this project.
 - [PokerBotAI/awesome-poker-ai](https://github.com/PokerBotAI/awesome-poker-ai) - AI-focused poker resource list.
+
+## Footnotes
+
+This list is intentionally selective. See [contributing.md](contributing.md) for inclusion criteria and maintenance expectations.

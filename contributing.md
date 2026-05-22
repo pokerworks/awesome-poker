@@ -2,7 +2,7 @@
 
 Thanks for helping make Awesome Poker useful.
 
-This project follows the [Awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md). Contributions are welcome when they improve the list's quality, accuracy, or coverage.
+This project follows the [Awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/awesome.md). Contributions are welcome when they improve the list's quality, accuracy, or coverage.
 
 ## What Belongs Here
 
