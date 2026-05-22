@@ -83,6 +83,8 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 - [MIT Pokerbots](https://pokerbots.org/) - Annual MIT programming competition where teams build autonomous pokerbots for a custom poker variant.
 - [Annual Computer Poker Competition](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2474/0) - Competition report covering the benchmark event that shaped academic computer-poker research.
+- [Slumbot](https://slumbot.com/) - Public heads-up no-limit poker bot and benchmark opponent for poker agents.
+- [GTO Wizard Benchmark](https://arxiv.org/abs/2603.23660) - Benchmark paper for evaluating heads-up no-limit Texas Hold'em agents against GTO Wizard AI.
 
 ## Client & UI Assets
 
