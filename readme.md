@@ -18,6 +18,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [Communities and Research Groups](#communities-and-research-groups)
 - [Player Tools](#player-tools)
 - [Rules and References](#rules-and-references)
+- [Notes](#notes)
 
 ## Evaluation Libraries
 
@@ -38,11 +39,11 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [MIT Pokerbots Engine](https://github.com/mitpokerbots/engine) - Template engine for the MIT Pokerbots autonomous pokerbot competition.
 - [poker-ts](https://github.com/claudijo/poker-ts) - TypeScript Texas Hold'em table model for running poker games.
 - [clubs](https://github.com/fschlatt/clubs) - Python engine for simulating arbitrary community-card poker games.
-- [OpenSpiel](https://github.com/google-deepmind/open_spiel) - Research framework for games and algorithms with imperfect-information poker environments.
 
 ## AI and Game Theory
 
 - [RLCard](https://github.com/datamllab/rlcard) - Reinforcement-learning toolkit with poker environments including Limit Texas Hold'em, No-Limit Texas Hold'em, and Leduc Hold'em.
+- [OpenSpiel](https://github.com/google-deepmind/open_spiel) - Research framework for games and algorithms with imperfect-information poker environments.
 - [DeepStack](https://arxiv.org/abs/1701.01724) - Paper on depth-limited solving and neural counterfactual value estimation for heads-up no-limit Texas hold'em.
 - [Libratus](https://www.ijcai.org/proceedings/2017/772) - Paper summary of the Carnegie Mellon no-limit poker AI system.
 - [Pluribus](https://www.science.org/doi/10.1126/science.aay2400) - Science paper on superhuman AI for six-player no-limit Texas hold'em.
@@ -94,6 +95,6 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [apehex/awesome-poker](https://github.com/apehex/awesome-poker) - Earlier broad poker resource list, useful prior art for this project.
 - [PokerBotAI/awesome-poker-ai](https://github.com/PokerBotAI/awesome-poker-ai) - AI-focused poker resource list.
 
-## Footnotes
+## Notes
 
 This list is intentionally selective. See [contributing.md](contributing.md) for inclusion criteria and maintenance expectations. Historically important resources that do not meet the main-list maintenance bar belong in [historical.md](historical.md).
