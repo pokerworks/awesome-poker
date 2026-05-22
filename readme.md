@@ -66,9 +66,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 - [Poker Hand History File Format Specification](https://phh.readthedocs.io/) - Specification for the PHH hand-history format across poker variants.
 - [ACPC Protocol Specification](https://pokerkit.readthedocs.io/en/stable/_static/protocol.pdf) - Protocol reference for dealer-to-player messages used by Annual Computer Poker Competition tooling.
-- [PokerHandHistoryParser](https://github.com/HHSmithy/PokerHandHistoryParser) - Parser for extracting limits, game types, players, stack sizes, and actions from poker hand histories.
 - [pluribus-hand-parser](https://github.com/VitamintK/pluribus-hand-parser) - Parser for the publicly released Pluribus hand-history data.
-- [PokerNowGrabber](https://github.com/pj4533/PokerNowGrabber) - Tool for saving hand histories from Poker Now games.
 
 ## Datasets & Corpora
 

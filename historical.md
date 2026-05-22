@@ -8,6 +8,6 @@ Historically important poker resources that are useful for research context, but
 - [Cepheus](https://poker.srv.ualberta.ca/about) - University of Alberta project that essentially solved heads-up limit Texas hold'em.
 - [ACPC Google Group](https://groups.google.com/g/computer-poker) - Announcement archive for the Annual Computer Poker Competition community.
 
-## Applications
+## Hand Histories
 
-- [oddslingers.poker](https://github.com/Monadical-SAS/oddslingers.poker) - Open-source Django and React poker platform codebase.
+- [PokerHandHistoryParser](https://github.com/HHSmithy/PokerHandHistoryParser) - Older parser for extracting game metadata and actions from poker hand histories.
