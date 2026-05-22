@@ -70,7 +70,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 ## Datasets & Corpora
 
-- [PHH Dataset](https://github.com/uoftcprg/phh-dataset) - Multi-variant dataset of poker hand histories in the Poker Hand History format.
+- [PHH Dataset](https://zenodo.org/records/17136841) - Multi-variant dataset of poker hand histories in the Poker Hand History format.
 - [IRC Poker Database](https://poker.cs.ualberta.ca/irc_poker_database.html) - Historical corpus of more than 10 million IRC poker hands collected from 1995 to 2001.
 - [Official ACPC Match Logs](http://www.computerpokercompetition.org/downloads/competitions/) - Download index for Annual Computer Poker Competition match logs and benchmark data.
 
