@@ -14,6 +14,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [Datasets & Corpora](#datasets--corpora)
 - [Tracking & Analysis](#tracking--analysis)
 - [Competitions & Benchmarks](#competitions--benchmarks)
+- [Fairness, RNG & Security](#fairness-rng--security)
 - [Client & UI Assets](#client--ui-assets)
 - [Rules, Math & References](#rules-math--references)
 - [Learning & Education](#learning--education)
@@ -85,6 +86,13 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [Annual Computer Poker Competition](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2474/0) - Competition report covering the benchmark event that shaped academic computer-poker research.
 - [Slumbot](https://slumbot.com/) - Public heads-up no-limit poker bot and benchmark opponent for poker agents.
 - [GTO Wizard Benchmark](https://arxiv.org/abs/2603.23660) - Benchmark paper for evaluating heads-up no-limit Texas Hold'em agents against GTO Wizard AI.
+
+## Fairness, RNG & Security
+
+- [NIST SP 800-90A](https://www.nist.gov/publications/recommendation-random-number-generation-using-deterministic-random-bit-generators-6) - NIST recommendation for deterministic random bit generation mechanisms.
+- [NIST Statistical Test Suite](https://csrc.nist.gov/Projects/random-bit-generation/Documentation-and-Software) - NIST documentation and software for statistical testing of random and pseudorandom number generators.
+- [GLI-11 Gaming Devices Standard](https://gaminglabs.com/wp-content/uploads/2018/09/GLI-11-Gaming-Devices-V3-0.pdf) - Gaming Laboratories International standard covering gaming-device requirements, including RNG expectations.
+- [Dealing Cards in Poker Games](https://crypto.stanford.edu/~pgolle/papers/poker.html) - Paper proposing a mental-poker protocol for shuffling and dealing cards without a trusted dealer.
 
 ## Client & UI Assets
 

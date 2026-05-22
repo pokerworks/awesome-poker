@@ -26,6 +26,8 @@ Before proposing a resource, check that it is:
 - Maintained, or historically important enough to belong in a separate historical section.
 - Described neutrally, without marketing copy.
 
+Main-list entries should be current, useful, recommendable, documented, and either actively maintained or category-defining. Important resources that are abandoned, archived, deprecated, suspended, or mainly useful as historical context belong in `historical.md`, not the main README.
+
 Please do not add:
 
 - Affiliate links, referral links, or promotional landing pages.

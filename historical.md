@@ -11,3 +11,8 @@ Historically important poker resources that are useful for research context, but
 ## Hand Histories
 
 - [PokerHandHistoryParser](https://github.com/HHSmithy/PokerHandHistoryParser) - Older parser for extracting game metadata and actions from poker hand histories.
+
+## Solvers
+
+- [postflop-solver](https://github.com/b-inary/postflop-solver) - Suspended Rust postflop solver library for Texas Hold'em.
+- [WASM Postflop](https://github.com/b-inary/wasm-postflop) - Suspended browser-based Texas Hold'em GTO solver built with WebAssembly.
