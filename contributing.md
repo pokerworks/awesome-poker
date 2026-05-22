@@ -45,6 +45,44 @@ Use this format:
 
 Descriptions should be concise, factual, and title-neutral. Do not start descriptions with "A list of", "Awesome", or marketing claims.
 
+Mark closed-source commercial tools with `(Commercial)` at the start of the description:
+
+```md
+- [Name](https://example.com) - (Commercial) Short objective description ending with a period.
+```
+
+## Category Guide
+
+Awesome Poker is organized by artifact type first: library, engine, solver, paper, dataset, tool, format, asset, or community. This keeps each resource on one obvious shelf as the list grows.
+
+The target architecture is:
+
+- **Libraries & Toolkits** - Importable code: hand evaluation, equity, ranges, combinatorics, and general poker toolkits.
+- **Game Engines & Platforms** - Table logic, betting engines, server frameworks, and playable open-source clients/platforms.
+- **Solvers** - Runnable software that computes strategies, including GTO/postflop solvers and CFR implementations.
+- **AI, Game Theory & Research** - Papers, landmark systems, research frameworks, algorithms, and academic work.
+- **Hand Histories, Formats & Standards** - Parsers, converters, hand-history formats, PHH, and site/de-facto formats.
+- **Datasets & Corpora** - Poker hand corpora, benchmark logs, released research datasets, and competition data.
+- **Tracking & Analysis** - Trackers, HUDs, session analysis, range/equity/ICM analysis tools.
+- **Competitions & Benchmarks** - Competitions and benchmark ecosystems where poker software is tested.
+- **Fairness, RNG & Security** - Shuffle protocols, RNG references, provably fair systems, mental poker, and operator trust material.
+- **Client & UI Assets** - Card decks, SVG assets, table UI assets, and frontend resources for poker clients.
+- **Rules, Math & References** - Tournament rules, probability tables, poker math references, and durable rule sources.
+- **Learning & Education** - Durable technical learning, such as university courses, CFR tutorials, and bot-building guides.
+- **Communities & Research Groups** - Academic groups, serious forums, and builder/research communities.
+- **Related Lists** - Other curated lists that overlap with poker software, AI, or research.
+
+Only publish a section in the README once it has enough genuinely recommendable entries to avoid looking abandoned. Empty target sections belong in issues or maintainer notes until they are ready.
+
+The README intentionally omits `Related Lists` from the table of contents because `awesome-lint` treats that section specially.
+
+Locked taxonomy decisions:
+
+- Variants such as Omaha, Stud, Draw, short-deck, and mixed games belong in descriptions unless variant-specific resources become numerous enough to need structure.
+- Libraries are organized function-first; split by language only after a section is large enough.
+- Category-defining commercial tools are allowed when useful to the wider community, but must be marked `(Commercial)`.
+- Keep the list builder/research/operator-first. Avoid affiliate-heavy training content and generic coaching resources.
+
 ## Pull Requests
 
 For each pull request:
