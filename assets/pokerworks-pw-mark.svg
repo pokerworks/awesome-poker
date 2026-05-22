@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 50" width="168" height="100" role="img" aria-label="PokerWorks">
+  <path
+    d="M 16 2 L 83 2 L 81.8 6 L 16 6 A 10 10 0 0 0 6 16 L 6 49 L 2 49 L 2 16 A 14 14 0 0 1 16 2 Z"
+    fill="#1a160f"
+  />
+  <text
+    x="11"
+    y="43"
+    font-family="Sora, ui-sans-serif, system-ui, sans-serif"
+    font-weight="650"
+    font-size="38"
+    letter-spacing="-1.5"
+    fill="#1a160f"
+  >PW</text>
+</svg>
