@@ -2,7 +2,7 @@
 
 Poker as a discipline: software, research, game theory, solvers, engines, hand histories, datasets, tools, and high-quality learning resources.
 
-Maintained by [PokerWorks](https://pokerworks.com) as a community resource. Inclusion is based on relevance, quality, usefulness, and maintenance, not affiliation.
+Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclusion is based on relevance, quality, usefulness, and maintenance, not affiliation.
 
 ## Contents
 
