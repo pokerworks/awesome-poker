@@ -29,6 +29,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [PokerStove](https://github.com/andrewprock/pokerstove) - Classic C++ range enumeration and equity-calculation software.
 - [pokersolver](https://github.com/goldfire/pokersolver) - JavaScript hand solver for ranking, comparing, and explaining poker hands in browser or Node.js apps.
 - [chehsunliu/poker](https://github.com/chehsunliu/poker) - Go package for parsing cards and evaluating poker hands.
+- [eval7](https://github.com/julianandrews/pyeval7) - Python and Cython evaluator with PokerStove-style range parsing and equity-calculation helpers.
 - [treys](https://github.com/ihendley/treys) - Pure Python evaluator for fast Hold'em hand ranking and simulations.
 - [rs-poker](https://github.com/elliottneilclark/rs-poker) - Rust library for hand ranking, card enumeration, and poker-agent experiments.
 
@@ -49,15 +50,19 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [PioSOLVER](https://piosolver.com/) - (Commercial) Desktop Hold'em solver for building trees, running solves, and analyzing postflop strategies.
 - [GTO+](https://www.gtoplus.com/) - (Commercial) Hold'em solver for building decision trees and recalculating turn or river branches.
 - [GTO Wizard](https://www.gtowizard.com/) - (Commercial) Cloud platform for solver libraries, trainers, hand review, and custom solving.
+- [MonkerSolver](https://monkerware.com/solver.html) - (Commercial) Solver used for Omaha, Hold'em, and multi-way game-tree analysis.
 
 ## AI, Game Theory & Research
 
 - [RLCard](https://github.com/datamllab/rlcard) - Reinforcement-learning environments for poker variants such as Leduc, Limit Hold'em, No-Limit Hold'em, and Dou Dizhu.
 - [OpenSpiel](https://github.com/google-deepmind/open_spiel) - General game-theory research framework with imperfect-information poker environments and solver algorithms.
+- [PokerRL](https://github.com/EricSteinberger/PokerRL) - Multi-agent poker reinforcement-learning framework with Deep CFR, NFSP, and distributed training support.
 - [Cepheus](https://www.science.org/doi/10.1126/science.1259433) - Science article describing the essential weak solution of heads-up limit Texas hold'em.
 - [DeepStack](https://arxiv.org/abs/1701.01724) - Depth-limited solving system with neural counterfactual value estimation for heads-up no-limit Texas hold'em.
 - [Libratus](https://www.ijcai.org/proceedings/2017/772) - Carnegie Mellon system for superhuman heads-up no-limit Texas Hold'em.
 - [Pluribus](https://www.science.org/doi/10.1126/science.aay2400) - Superhuman six-player no-limit Texas hold'em system from Brown and Sandholm.
+- [Student of Games](https://arxiv.org/abs/2112.03178) - Unified algorithm for strong play in perfect- and imperfect-information games, including heads-up no-limit Hold'em.
+- [AlphaHoldem](https://ojs.aaai.org/index.php/AAAI/article/view/20394) - End-to-end reinforcement-learning framework for heads-up no-limit Texas Hold'em.
 - [Counterfactual Regret Minimization](https://poker.cs.ualberta.ca/publications/NIPS07-cfr.pdf) - Foundational regret-minimization algorithm for large imperfect-information games.
 - [Neural Fictitious Self-Play](https://arxiv.org/abs/1603.01121) - Deep reinforcement-learning method for approximating Nash equilibria in imperfect-information games.
 - [Deep Counterfactual Regret Minimization](https://arxiv.org/abs/1811.00164) - Deep CFR method for scaling counterfactual-regret minimization with neural approximation.
@@ -66,7 +71,9 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 ## Hand Histories, Formats & Standards
 
 - [Poker Hand History File Format Specification](https://phh.readthedocs.io/) - PHH specification for machine-readable hand histories across poker variants.
+- [Recording and Describing Poker Hands](https://arxiv.org/abs/2312.11753) - Paper introducing the PHH format for recording poker hands across variants.
 - [ACPC Protocol Specification](https://pokerkit.readthedocs.io/en/stable/_static/protocol.pdf) - Protocol reference for dealer-to-player messages used by Annual Computer Poker Competition tooling.
+- [Hand History Parser](https://github.com/poker-apprentice/hand-history-parser) - TypeScript parser for online poker hand histories, published as `@poker-apprentice/hand-history-parser`.
 - [pluribus-hand-parser](https://github.com/VitamintK/pluribus-hand-parser) - Parser for the public Pluribus hand-history release.
 
 ## Datasets & Corpora
@@ -86,6 +93,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 - [PokerTracker 4](https://www.pokertracker.com/products/PT4/index.php) - (Commercial) Tracker, report builder, hand replayer, and HUD for Hold'em and Omaha.
 - [Holdem Manager 3](https://www.holdemmanager.com/hm3/index.php) - (Commercial) Hand database, filtering, replay, and HUD software for online poker analysis.
+- [HoldemResources Calculator](https://www.holdemresources.net/) - (Commercial) Tournament preflop, ICM, and bounty analysis tool.
 
 ## Competitions & Benchmarks
 
