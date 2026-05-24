@@ -57,6 +57,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [RLCard](https://github.com/datamllab/rlcard) - Reinforcement-learning environments for poker variants such as Leduc, Limit Hold'em, No-Limit Hold'em, and Dou Dizhu.
 - [OpenSpiel](https://github.com/google-deepmind/open_spiel) - General game-theory research framework with imperfect-information poker environments and solver algorithms.
 - [PokerRL](https://github.com/EricSteinberger/PokerRL) - Multi-agent poker reinforcement-learning framework with Deep CFR, NFSP, and distributed training support.
+- [neuron_poker](https://github.com/dickreuter/neuron_poker) - OpenAI Gym Texas Hold'em environment with rendering, Monte Carlo equity calculation, and reinforcement-learning agents.
 - [Cepheus](https://www.science.org/doi/10.1126/science.1259433) - Science article describing the essential weak solution of heads-up limit Texas hold'em.
 - [DeepStack](https://arxiv.org/abs/1701.01724) - Depth-limited solving system with neural counterfactual value estimation for heads-up no-limit Texas hold'em.
 - [Libratus](https://www.ijcai.org/proceedings/2017/772) - Carnegie Mellon system for superhuman heads-up no-limit Texas Hold'em.
@@ -88,6 +89,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [NIST Statistical Test Suite](https://csrc.nist.gov/Projects/random-bit-generation/Documentation-and-Software) - Documentation and software for statistical testing of random and pseudorandom number generators.
 - [GLI-11 Gaming Devices Standard](https://gaminglabs.com/wp-content/uploads/2018/09/GLI-11-Gaming-Devices-V3-0.pdf) - Gaming Laboratories International standard for gaming devices, including RNG expectations.
 - [Dealing Cards in Poker Games](https://crypto.stanford.edu/~pgolle/papers/poker.html) - Mental-poker protocol for shuffling and dealing cards without a trusted dealer.
+- [mental-poker](https://github.com/geometryxyz/mental-poker) - Rust implementation of a mental-poker protocol based on Barnett-Smart and verifiable shuffle primitives.
 
 ## Tracking & Analysis
 
@@ -106,6 +108,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 - [SVG-cards](https://github.com/htdebeer/SVG-cards) - SVG and PNG playing-card deck assets distributed through npm.
 - [playing-cards-assets](https://github.com/hayeah/playing-cards-assets) - MIT-licensed SVG and PNG deck assets derived from open vector cards.
+- [Vector Playing Cards](https://github.com/notpeter/Vector-Playing-Cards) - Public-domain SVG deck with scripts for generating custom-sized PNG cards.
 
 ## Rules, Math & References
 
@@ -116,6 +119,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 ## Learning & Education
 
 - [MIT Poker Theory and Analytics](https://ocw.mit.edu/courses/15-s50-poker-theory-and-analytics-january-iap-2015/) - OpenCourseWare class on poker theory, analytics, decision-making, and trading connections.
+- [An Introduction to Counterfactual Regret Minimization](http://modelai.gettysburg.edu/2013/cfr/) - Model AI teaching module with a CFR tutorial, exercises, and sample code.
 - [Artificial Intelligence Poker Tutorial](https://chisness.github.io/2019-04-25/artificial-intelligence-poker-tutorial) - Code-oriented walkthrough of poker AI concepts, CFR, and agent implementation.
 - [Counterfactual Regret Minimization for Poker AI](https://int8.io/counterfactual-regret-minimization-for-poker-ai/) - Long-form technical explanation of CFR and poker game-tree solving.
 
