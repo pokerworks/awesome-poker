@@ -10,6 +10,9 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [Game Engines & Platforms](#game-engines--platforms)
 - [Solvers](#solvers)
 - [AI, Game Theory & Research](#ai-game-theory--research)
+  - [Frameworks & Environments](#frameworks--environments)
+  - [Landmark Systems & Papers](#landmark-systems--papers)
+  - [Algorithms & Methods](#algorithms--methods)
 - [Hand Histories, Formats & Standards](#hand-histories-formats--standards)
 - [Datasets & Corpora](#datasets--corpora)
 - [Fairness, RNG & Security](#fairness-rng--security)
@@ -54,16 +57,24 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 ## AI, Game Theory & Research
 
+### Frameworks & Environments
+
 - [RLCard](https://github.com/datamllab/rlcard) - Reinforcement-learning environments for poker variants such as Leduc, Limit Hold'em, No-Limit Hold'em, and Dou Dizhu.
 - [OpenSpiel](https://github.com/google-deepmind/open_spiel) - General game-theory research framework with imperfect-information poker environments and solver algorithms.
 - [PokerRL](https://github.com/EricSteinberger/PokerRL) - Multi-agent poker reinforcement-learning framework with Deep CFR, NFSP, and distributed training support.
 - [neuron_poker](https://github.com/dickreuter/neuron_poker) - OpenAI Gym Texas Hold'em environment with rendering, Monte Carlo equity calculation, and reinforcement-learning agents.
+
+### Landmark Systems & Papers
+
 - [Cepheus](https://www.science.org/doi/10.1126/science.1259433) - Science article describing the essential weak solution of heads-up limit Texas hold'em.
 - [DeepStack](https://arxiv.org/abs/1701.01724) - Depth-limited solving system with neural counterfactual value estimation for heads-up no-limit Texas hold'em.
 - [Libratus](https://www.ijcai.org/proceedings/2017/772) - Carnegie Mellon system for superhuman heads-up no-limit Texas Hold'em.
 - [Pluribus](https://www.science.org/doi/10.1126/science.aay2400) - Superhuman six-player no-limit Texas hold'em system from Brown and Sandholm.
 - [Student of Games](https://arxiv.org/abs/2112.03178) - Unified algorithm for strong play in perfect- and imperfect-information games, including heads-up no-limit Hold'em.
 - [AlphaHoldem](https://ojs.aaai.org/index.php/AAAI/article/view/20394) - End-to-end reinforcement-learning framework for heads-up no-limit Texas Hold'em.
+
+### Algorithms & Methods
+
 - [Counterfactual Regret Minimization](https://poker.cs.ualberta.ca/publications/NIPS07-cfr.pdf) - Foundational regret-minimization algorithm for large imperfect-information games.
 - [Neural Fictitious Self-Play](https://arxiv.org/abs/1603.01121) - Deep reinforcement-learning method for approximating Nash equilibria in imperfect-information games.
 - [Deep Counterfactual Regret Minimization](https://arxiv.org/abs/1811.00164) - Deep CFR method for scaling counterfactual-regret minimization with neural approximation.
@@ -82,6 +93,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [PHH Dataset](https://zenodo.org/records/17136841) - Multi-variant poker hand-history corpus published in the PHH format.
 - [IRC Poker Database](https://poker.cs.ualberta.ca/irc_poker_database.html) - Historical corpus of more than 10 million online poker hands collected on IRC from 1995 to 2001.
 - [Official ACPC Match Logs](http://www.computerpokercompetition.org/downloads/competitions/) - Download index for Annual Computer Poker Competition match logs and benchmark data across multiple years.
+- [PokerBench](https://huggingface.co/datasets/RZ412/PokerBench) - No-limit Texas Hold'em decision-making dataset with solver-labeled preflop and postflop scenarios.
 
 ## Fairness, RNG & Security
 
