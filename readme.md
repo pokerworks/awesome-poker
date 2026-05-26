@@ -14,6 +14,8 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
   - [Landmark Systems & Papers](#landmark-systems--papers)
   - [Algorithms & Methods](#algorithms--methods)
 - [Hand Histories, Formats & Standards](#hand-histories-formats--standards)
+  - [Formats & Protocols](#formats--protocols)
+  - [Parsers & Converters](#parsers--converters)
 - [Datasets & Corpora](#datasets--corpora)
 - [Fairness, RNG & Security](#fairness-rng--security)
 - [Tracking & Analysis](#tracking--analysis)
@@ -82,9 +84,15 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 ## Hand Histories, Formats & Standards
 
+### Formats & Protocols
+
 - [Poker Hand History File Format Specification](https://phh.readthedocs.io/) - PHH specification for machine-readable hand histories across poker variants.
 - [Recording and Describing Poker Hands](https://arxiv.org/abs/2312.11753) - Paper introducing the PHH format for recording poker hands across variants.
+- [Open Hand History](https://hh-specs.handhistory.org/) - JSON hand-history specification for standardizing online poker hand data across operators and analysis tools.
 - [ACPC Protocol Specification](https://pokerkit.readthedocs.io/en/stable/_static/protocol.pdf) - Protocol reference for dealer-to-player messages used by Annual Computer Poker Competition tooling.
+
+### Parsers & Converters
+
 - [Hand History Parser](https://github.com/poker-apprentice/hand-history-parser) - TypeScript parser for online poker hand histories, published as `@poker-apprentice/hand-history-parser`.
 - [pluribus-hand-parser](https://github.com/VitamintK/pluribus-hand-parser) - Parser for the public Pluribus hand-history release.
 
