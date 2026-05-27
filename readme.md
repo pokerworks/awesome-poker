@@ -113,6 +113,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 
 ## Tracking & Analysis
 
+- [FPDB-3](https://github.com/jejellyroll-fr/fpdb-3) - Open-source poker tracking and analysis suite with HUD support, hand-history import, reporting, and a web interface.
 - [PokerTracker 4](https://www.pokertracker.com/products/PT4/index.php) - (Commercial) Tracker, report builder, hand replayer, and HUD for Hold'em and Omaha.
 - [Holdem Manager 3](https://www.holdemmanager.com/hm3/index.php) - (Commercial) Hand database, filtering, replay, and HUD software for online poker analysis.
 - [HoldemResources Calculator](https://www.holdemresources.net/) - (Commercial) Tournament preflop, ICM, and bounty analysis tool.
@@ -129,6 +130,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [SVG-cards](https://github.com/htdebeer/SVG-cards) - SVG and PNG playing-card deck assets distributed through npm.
 - [playing-cards-assets](https://github.com/hayeah/playing-cards-assets) - MIT-licensed SVG and PNG deck assets derived from open vector cards.
 - [Vector Playing Cards](https://github.com/notpeter/Vector-Playing-Cards) - Public-domain SVG deck with scripts for generating custom-sized PNG cards.
+- [HandMatrix](https://github.com/HoldemPokerTools/HandMatrix) - React component for displaying and interacting with Texas Hold'em starting-hand range matrices.
 
 ## Rules, Math & References
 
