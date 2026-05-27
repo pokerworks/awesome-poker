@@ -130,7 +130,6 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [SVG-cards](https://github.com/htdebeer/SVG-cards) - SVG and PNG playing-card deck assets distributed through npm.
 - [playing-cards-assets](https://github.com/hayeah/playing-cards-assets) - MIT-licensed SVG and PNG deck assets derived from open vector cards.
 - [Vector Playing Cards](https://github.com/notpeter/Vector-Playing-Cards) - Public-domain SVG deck with scripts for generating custom-sized PNG cards.
-- [HandMatrix](https://github.com/HoldemPokerTools/HandMatrix) - React component for displaying and interacting with Texas Hold'em starting-hand range matrices.
 
 ## Rules, Math & References
 
