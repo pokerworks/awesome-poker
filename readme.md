@@ -43,7 +43,6 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [PokerTH](https://github.com/pokerth/pokerth) - Mature open-source Texas Hold'em game with desktop clients and network play.
 - [OddSlingers](https://github.com/Monadical-SAS/oddslingers.poker) - Full-stack Django and React codebase behind an open-source online poker platform.
 - [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) - Python engine for building, testing, and benchmarking poker agents.
-- [MIT Pokerbots Engine](https://github.com/mitpokerbots/engine) - Template engine for the MIT Pokerbots autonomous pokerbot competition.
 - [poker-ts](https://github.com/claudijo/poker-ts) - TypeScript table model for running Texas Hold'em games.
 - [clubs](https://github.com/fschlatt/clubs) - Python engine for arbitrary community-card poker variants.
 
