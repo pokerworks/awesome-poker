@@ -10,6 +10,7 @@ Historically important poker resources that are useful for research context, but
 ## Hand Histories
 
 - [PokerHandHistoryParser](https://github.com/HHSmithy/PokerHandHistoryParser) - Older parser for extracting game metadata and actions from poker hand histories.
+- [pluribus-hand-parser](https://github.com/VitamintK/pluribus-hand-parser) - Parser for the 2019 public Pluribus hand-history release, unmaintained since shortly after publication.
 
 ## Libraries
 

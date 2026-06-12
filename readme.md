@@ -94,7 +94,6 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 ### Parsers & Converters
 
 - [Hand History Parser](https://github.com/poker-apprentice/hand-history-parser) - TypeScript parser for online poker hand histories, published as `@poker-apprentice/hand-history-parser`.
-- [pluribus-hand-parser](https://github.com/VitamintK/pluribus-hand-parser) - Parser for the public Pluribus hand-history release.
 
 ## Datasets & Corpora
 
