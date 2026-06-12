@@ -106,6 +106,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [NIST SP 800-90A](https://www.nist.gov/publications/recommendation-random-number-generation-using-deterministic-random-bit-generators-6) - NIST recommendation for deterministic random bit generation mechanisms.
 - [NIST Statistical Test Suite](https://csrc.nist.gov/Projects/random-bit-generation/Documentation-and-Software) - Documentation and software for statistical testing of random and pseudorandom number generators.
 - [GLI-11 Gaming Devices Standard](https://gaminglabs.com/wp-content/uploads/2018/09/GLI-11-Gaming-Devices-V3-0.pdf) - Gaming Laboratories International standard for gaming devices, including RNG expectations.
+- [Mental Poker](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf) - Shamir, Rivest, and Adleman paper that introduced the problem of playing a fair poker hand without cards or a trusted dealer.
 - [Dealing Cards in Poker Games](https://crypto.stanford.edu/~pgolle/papers/poker.html) - Mental-poker protocol for shuffling and dealing cards without a trusted dealer.
 - [mental-poker](https://github.com/geometryxyz/mental-poker) - Rust implementation of a mental-poker protocol based on Barnett-Smart and verifiable shuffle primitives.
 
