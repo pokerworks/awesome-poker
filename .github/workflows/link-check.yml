@@ -15,8 +15,11 @@ jobs:
           args: >-
             --verbose
             --no-progress
+            --timeout 60
             --exclude '^https://www\.science\.org/doi/10\.1126/science\.(1259433|aay2400)$'
             --exclude '^https://forumserver\.twoplustwo\.com/?$'
+            --exclude '^https://ojs\.aaai\.org/(aimagazine/index\.php/aimagazine/article/view/2474/0|index\.php/AAAI/article/view/20394)$'
+            --exclude '^https://www\.gtoplus\.com/?$'
             --exclude '^https://monkerware\.com/solver\.html$'
             "./**/*.md"
         env:
