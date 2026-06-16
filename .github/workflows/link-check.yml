@@ -17,6 +17,7 @@ jobs:
             --no-progress
             --exclude '^https://www\.science\.org/doi/10\.1126/science\.(1259433|aay2400)$'
             --exclude '^https://forumserver\.twoplustwo\.com/?$'
+            --exclude '^https://monkerware\.com/solver\.html$'
             "./**/*.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
