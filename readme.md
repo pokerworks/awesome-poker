@@ -37,6 +37,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [eval7](https://github.com/julianandrews/pyeval7) - Python and Cython evaluator with PokerStove-style range parsing and equity-calculation helpers.
 - [treys](https://github.com/ihendley/treys) - Pure Python evaluator for fast Hold'em hand ranking and simulations.
 - [rs-poker](https://github.com/elliottneilclark/rs-poker) - Rust library for hand ranking, card enumeration, and poker-agent experiments.
+- [slumbot-adapter](https://github.com/aipoker-bot/slumbot-adapter) - Python parser and async client for Slumbot's public API: action-string state tracking, legal raise sizes, and heads-up no-limit play.
 
 ## Game Engines & Platforms
 
