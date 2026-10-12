@@ -55,6 +55,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [GTO+](https://www.gtoplus.com/) - (Commercial) Hold'em solver for building decision trees and recalculating turn or river branches.
 - [GTO Wizard](https://www.gtowizard.com/) - (Commercial) Cloud platform for solver libraries, trainers, hand review, and custom solving.
 - [MonkerSolver](https://monkerware.com/solver.html) - (Commercial) Solver used for Omaha, Hold'em, and multi-way game-tree analysis.
+- [GTO Dojo](https://www.gtodojo.com/) - (Commercial) Browser-based No-Limit Hold'em trainer with free daily hands and solver-backed feedback on each decision.
 
 ## AI, Game Theory & Research
 
