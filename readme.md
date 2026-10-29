@@ -109,6 +109,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [Mental Poker](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf) - Shamir, Rivest, and Adleman paper that introduced the problem of playing a fair poker hand without cards or a trusted dealer.
 - [Dealing Cards in Poker Games](https://crypto.stanford.edu/~pgolle/papers/poker.html) - Mental-poker protocol for shuffling and dealing cards without a trusted dealer.
 - [mental-poker](https://github.com/geometryxyz/mental-poker) - Rust implementation of a mental-poker protocol based on Barnett-Smart and verifiable shuffle primitives.
+- [BluffKing](https://github.com/CisaSettle/bluffking) - Rust poker engine with commit-reveal and re-encryption-mixnet verifiable dealing, offline transcript verifiers, and a postflop CFR solver wrapper.
 
 ## Tracking & Analysis
 
