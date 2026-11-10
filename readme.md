@@ -100,6 +100,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [IRC Poker Database](https://poker.cs.ualberta.ca/irc_poker_database.html) - Historical corpus of more than 10 million online poker hands collected on IRC from 1995 to 2001.
 - [Official ACPC Match Logs](http://www.computerpokercompetition.org/downloads/competitions/) - Download index for Annual Computer Poker Competition match logs and benchmark data across multiple years.
 - [PokerBench](https://huggingface.co/datasets/RZ412/PokerBench) - No-limit Texas Hold'em decision-making dataset with solver-labeled preflop and postflop scenarios.
+- [Smarter.Poker Open Datasets](https://github.com/Smarter-Poker/smarter-poker-open-datasets) - CC-BY 4.0 quantitative poker benchmark datasets in CSV and JSON covering 6-max GTO opening frequencies, Malmuth-Harville ICM bubble factors, bounty equity distortion, and live rake structures.
 
 ## Fairness, RNG & Security
 
