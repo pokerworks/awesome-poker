@@ -135,6 +135,7 @@ Maintained by [PokerWorks](https://pokerworks.io) as a community resource. Inclu
 - [Tournament Directors Association Rules](https://www.pokertda.com/poker-tda-rules/) - Widely used tournament poker rules and procedures.
 - [Robert's Rules of Poker](https://www.pagat.com/docs/RobsPkrRulesHome.pdf) - Rule reference for common poker procedures and disputes.
 - [Poker Probability](https://en.wikipedia.org/wiki/Poker_probability) - Probability tables for poker hand frequencies.
+- [FlopKit](https://flopkit.com/) - Free Texas Hold'em cheat sheet — one page, no signup.
 
 ## Learning & Education
 
